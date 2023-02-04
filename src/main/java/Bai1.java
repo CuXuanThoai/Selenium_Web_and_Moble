@@ -12,6 +12,7 @@ public class Bai1 {
         // Navigate to the demoqa website
         driver.get("https://www.demoqa.com");
 
+
         driver.quit();
     }
 }
